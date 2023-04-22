@@ -1,0 +1,22 @@
+{
+  "name": "discofriends-api",
+  "version": "0.0.1",
+  "description": "make friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naoexistobb/discofriends-api.git"
+  },
+  "keywords": [
+    "friends"
+  ],
+  "author": "naoexistobb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naoexistobb/discofriends-api/issues"
+  },
+  "homepage": "https://github.com/naoexistobb/discofriends-api#readme"
+}
